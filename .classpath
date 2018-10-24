@@ -2,18 +2,50 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/antlr-2.7.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/commons-collections-3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/commons-logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/ejb3-persistence.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/hibernate3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/hibernate-annotations.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/hibernate-commons-annotations.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/javassist-3.4.GA.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/jta-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/jtds-1.2.5.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/slf4j-api-1.5.6.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Santiago/Downloads/Hibernate, docs y ejemplo/lib/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/ecj-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/jackson-core-2.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/jboss.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/jtds-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/slf4j-simple-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Santiago/Desktop/nnnn/integracion/lib/websocket-api.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
