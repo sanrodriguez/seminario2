@@ -1,32 +1,26 @@
-package negocio;
+package entities;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
-import dao.IngredienteDAO;
-import entities.IngredienteEntity;
+@Entity
+@Table(name="ingredientes")
+public class IngredienteEntity {
 
-public class Ingrediente {
-	
+	@Id
 	private int ingrediente_id;
 	private String nombre;
-	private String medida;	
+	private String medida;
 	
-	public Ingrediente(int Ingrediente_Id, String Nombre, String Medida) {
+	public IngredienteEntity() {}
+	
+	public IngredienteEntity(int Ingrediente_Id, String Nombre, String Medida) {
 		ingrediente_id = Ingrediente_Id;
 		nombre         = Nombre;
 		medida         = Medida;
 	}
-	
-	public Ingrediente(IngredienteEntity ingrediente) {
-		ingrediente_id = ingrediente.getIngrediente_id();
-		nombre         = ingrediente.getNombre();
-		medida         = ingrediente.getMedida();
-	}
-	
-	public void save() {
-		//############################ CHEQUEAR ERROR ################
-		//IngredienteDAO.getInstancia().grabar();
-	}
-	
+
 	public int getIngrediente_id() {
 		return ingrediente_id;
 	}
@@ -51,4 +45,7 @@ public class Ingrediente {
 		this.medida = medida;
 	}
 	
+	
+	
+
 }

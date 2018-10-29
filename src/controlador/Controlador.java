@@ -1,13 +1,6 @@
 package controlador;
 
-import negocio.Club;
 import negocio.Jugador;
-import dao.ClubDAO;
-import dao.JugadorDAO;
-import dto.JugadorDTO;
-import entities.ClubEntity;
-import exceptions.ClubException;
-import exceptions.JugadorException;
 
 public class Controlador {
 
